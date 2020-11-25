@@ -3,4 +3,4 @@
 <h2> Glad to see you here again </h2>
 <h2> Hi This is Devops project </h2>
 <h2> Deploying container using ansible-playbook </h2>
-<h2> Hi Today is Wednesday <h2/>
+<h2> Hi Today is Thursday <h2/>

@@ -4,4 +4,5 @@
 <h2> Hi This is Devops project </h2>
 <h2> Deploying container using ansible-playbook </h2>
 <h2> Hi Today is Thursday and im still debugging this <h2/>
-<h2> Integrating job through the jenkin <h2/>
+<h2> Integrating job through the jenkins <h2/>
+<h2> Doing the deployment on k8s <h2/>
